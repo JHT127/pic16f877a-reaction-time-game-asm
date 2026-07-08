@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<FIRMWARE FAMILY="PIC16" COMPILER="MPASM (Proteus)" TYPE="PIC16F877A">
+ <PROJECTS>
+  <STRING>PIC16F877A</STRING>
+ </PROJECTS>
+</FIRMWARE>
