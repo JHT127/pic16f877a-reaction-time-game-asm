@@ -1,6 +1,6 @@
 # Two-Player Reaction Game
 
-Two-player reaction-time game built with a PIC16F877A for Birzeit University's Real-Time and Embedded Systems course.
+PIC16F877A two-player reaction-time game written in assembly, with a Proteus hardware schematic.
 
 This hardware project was developed for the Real-Time and Embedded Systems course at Birzeit University.
 
