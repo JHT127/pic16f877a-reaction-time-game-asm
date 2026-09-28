@@ -1,6 +1,15 @@
 # Two-Player Reaction Game
 
-PIC16F877A assembly firmware and a Proteus schematic for a two-player target-time reaction game.
+Two-player reaction-time game built with a PIC16F877A for Birzeit University's Real-Time and Embedded Systems course.
+
+This hardware project was developed for the Real-Time and Embedded Systems course at Birzeit University.
+
+## Project partners
+
+- Joud Thaher
+- Labiba Sharia
+- Shatha Yasin
+- Marah Hamarsheh
 
 ## Canonical project files
 
@@ -53,7 +62,3 @@ No automated build or simulation test is configured in this repository. A public
 ## Generated files
 
 MPLAB/MPASM outputs such as HEX, listing, map, and debug files are ignored. If distributing a HEX, build it from the maintained assembly source and publish it as a versioned release artifact with the toolchain version recorded.
-
-## License
-
-No license has been selected. Public visibility alone does not grant permission to reuse, modify, or distribute this project's contents. Add a license before inviting reuse or contributions.
