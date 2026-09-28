@@ -1,0 +1,15 @@
+# MPLAB/MPASM build outputs
+*.cod
+*.cof
+*.err
+*.hex
+*.HEX
+*.lst
+*.map
+*.o
+*.obj
+
+# Local MPLAB workspace state and temporary files
+*.mcw
+*.bak
+*.tmp
